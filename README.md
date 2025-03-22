@@ -1,2 +1,3 @@
 # Number-Program-In-Java
-Factorial program
+1. Factorial program
+2.  Palindrome in Java
