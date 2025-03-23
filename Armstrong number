@@ -1,0 +1,21 @@
+import java.util.*;
+class Armstrongnumber{
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        System.out.println("Enter the Number");
+        int num= in.nextInt();
+        int real=num;
+        int temp ;
+        int cheack=0;
+        while (num>0){
+            temp=num%10;
+            cheack=cheack+(temp*temp*temp);
+            num=num/10;
+        }
+        if(real==cheack){
+            System.out.println(cheack+" it is a Armstrong Number");
+        }else {
+            System.out.println(cheack+" it is Not a Armstrong Number");
+        }
+    }
+}
