@@ -5,3 +5,5 @@
 4.  Perfect Number in Java
 5.  Strong Number in Java
 6.  Harshad Number in Java
+
+------ More Soon -----------
