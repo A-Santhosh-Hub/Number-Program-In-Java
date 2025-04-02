@@ -5,5 +5,6 @@
 4.  Perfect Number in Java
 5.  Strong Number in Java
 6.  Harshad Number in Java
+7.  LCM calculator in Java
 
 [------ More Soon -----------]
