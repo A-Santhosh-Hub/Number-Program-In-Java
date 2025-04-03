@@ -6,5 +6,6 @@
 5.  Strong Number in Java
 6.  Harshad Number in Java
 7.  LCM calculator in Java
+8.  Fibonacci Number in Java
 
 [------ More Soon -----------]
