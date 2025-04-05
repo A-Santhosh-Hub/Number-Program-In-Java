@@ -7,5 +7,6 @@
 6.  Harshad Number in Java
 7.  LCM calculator in Java
 8.  Fibonacci Number in Java
+9.  Digit Counter in Java
 
 [------ More Soon -----------]
