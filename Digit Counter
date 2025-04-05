@@ -1,0 +1,10 @@
+import java.util.*;
+class DigitCounterStringMethod {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        System.out.print("Enter an integer: ");
+        int number = in.nextInt();
+        int count = String.valueOf(Math.abs(number)).length();
+        System.out.println("The number of digits in " + number + " is " + count);
+    }
+}
