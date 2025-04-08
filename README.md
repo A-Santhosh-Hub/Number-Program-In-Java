@@ -8,6 +8,7 @@
 7.  LCM calculator in Java
 8.  Fibonacci Number in Java
 9.  Digit Counter in Java
-10.  Number program in Java.pdf
+10. Number program in Java.pdf
+11. Pattern Printing in Java
 
 [------ More Soon -----------]
