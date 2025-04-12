@@ -12,5 +12,6 @@
 11. Pattern Printing in Java
 12. Check Number Sign in Java
 13. Unique Number in Java
+14. Add Harshad Number in Java
 
 [------ More Soon -----------]
