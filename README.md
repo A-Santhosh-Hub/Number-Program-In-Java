@@ -14,5 +14,6 @@
 13. Unique Number in Java
 14. Add Harshad Number in Java
 15. Add  Multiply Of Digits in Java
+16. Add Twin Prime
 
 [------ More Soon -----------]
