@@ -12,8 +12,7 @@
 11. Pattern Printing in Java
 12. Check Number Sign in Java
 13. Unique Number in Java
-14. Add Harshad Number in Java
-15. Add  Multiply Of Digits in Java
-16. Add Twin Prime
+14. Add  Multiply Of Digits in Java
+15. Add Twin Prime
 
 [------ More Soon -----------]
