@@ -16,4 +16,4 @@
 15. Add Twin Prime
 16. Add Leap Year Checker
 
-[------ More Soon ---------]
+[------ More Soon -------]
